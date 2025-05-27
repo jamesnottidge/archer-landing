@@ -15,7 +15,7 @@ export default function ContactSection() {
            <div className="mt-8 space-y-4 text-foreground/70">
             <p><strong>Email:</strong> nottidge@archer.africa</p>
             <p><strong>Phone:</strong> +2348155591444</p>
-            <p><strong>Address:</strong> 3 Adetola Ayeni Street, Lekki Phase 1</p>
+            <p><strong>Address:</strong> Freedom Way, Lekki Phase 1</p>
           </div>
         </div>
         <div className="animate-in fade-in slide-in-from-right-12 duration-1000 ease-out">
