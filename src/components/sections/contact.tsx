@@ -13,9 +13,9 @@ export default function ContactSection() {
             Discover how Archer can revolutionize your stablecoin operations. Fill out the form, and our expert team will contact you shortly to discuss your specific needs and schedule a personalized demo.
           </p>
            <div className="mt-8 space-y-4 text-foreground/70">
-            <p><strong>Email:</strong> info@archerfinance.com (Illustrative)</p>
-            <p><strong>Phone:</strong> +1 (555) 123-4567 (Illustrative)</p>
-            <p><strong>Address:</strong> 123 Fintech Ave, Innovation City, USA (Illustrative)</p>
+            <p><strong>Email:</strong> nottidge@archer.africa</p>
+            <p><strong>Phone:</strong> +2348155591444</p>
+            <p><strong>Address:</strong> 3 Adetola Ayeni Street, Lekki Phase 1</p>
           </div>
         </div>
         <div className="animate-in fade-in slide-in-from-right-12 duration-1000 ease-out">
