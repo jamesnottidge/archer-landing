@@ -83,9 +83,9 @@ export default function FriendlyPrivacyPage() {
       </p>
       <ul>
         <li>
-          <strong>Account:</strong> your email address and a password (stored only as
-          a secure hash by our authentication provider — we never see your plaintext
-          password).
+          <strong>Account:</strong> your email address. Friendly uses passwordless
+          sign-in: we send a one-time code (OTP) to your email when you log in. We do
+          not collect, store, or use a password.
         </li>
         <li>
           <strong>Profile:</strong> your display name and an optional profile photo
