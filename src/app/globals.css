@@ -107,3 +107,41 @@
     @apply bg-background text-foreground;
   }
 }
+
+@layer components {
+  .prose-friendly h1 {
+    @apply mb-2 text-3xl font-bold tracking-tight text-foreground md:text-4xl;
+  }
+
+  .prose-friendly h2 {
+    @apply mb-3 mt-10 text-xl font-semibold text-foreground;
+  }
+
+  .prose-friendly p {
+    @apply mb-4 leading-7 text-foreground/90;
+  }
+
+  .prose-friendly ul {
+    @apply mb-4 list-disc space-y-2 pl-6 text-foreground/90;
+  }
+
+  .prose-friendly li {
+    @apply leading-7;
+  }
+
+  .prose-friendly a {
+    @apply text-primary underline-offset-4 hover:underline;
+  }
+
+  .prose-friendly strong {
+    @apply font-semibold text-foreground;
+  }
+
+  .prose-friendly .legal-meta {
+    @apply mb-8 space-y-1 text-sm text-muted-foreground;
+  }
+
+  .prose-friendly .legal-notice {
+    @apply mb-8 rounded-lg border border-border/60 bg-muted/30 px-4 py-3 text-sm text-muted-foreground;
+  }
+}
